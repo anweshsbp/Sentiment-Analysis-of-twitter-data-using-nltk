@@ -6,6 +6,8 @@
  
  # In this project you can try my consumer and access key to run this project , I have provided those along with the code.
  
+ # you need to install all the necessary python modules to run this project such as nltk, tweepy, scikit learn etc. When you run the code it will show you the module missing error if the particular module is not installed in your system , then you have to INSTALL THE NECESSARY MODULES ON YOUR SYSTEM AND CODE WILL WORK 100% .To install a python module in your system , GO TO CMD AND TYPE PIP INSTALL MODULENAME AND PRESS ENTER(Your system must have python and pip installed obviously).
+ 
  # then go to twitter_credentials.py and enter your twitter api details and save the file.
  
  # Go to sentiment.py and run the file once.
