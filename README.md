@@ -16,7 +16,7 @@
  
  # Run our very own sentiment analysis module sentiment_mod.py. This process will take some time according to your processor but dont worry you only have to run it once in your device.
  
- # Then we can analyze our twitter data using analysis.py and make sure you have your internet connection on.
+ # Then we can analyze our twitter data using analysis.py and make sure you have your internet connection on, the program can be extremely slow/fast due to the reaction time    twitter api and it also depends on the system processor and patience is the key.
  
  # We can also graphically represent our analysis using source code in graphical_analysis.py.
  
